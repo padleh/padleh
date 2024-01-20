@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hello!
 
+I'm an undergraduate physics student, sometimes codes stuff when bored but mostly I wrote notes and put it here.
 <!--
 **padleh/padleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
